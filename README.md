@@ -12,5 +12,5 @@ products for women - an insight of how consumers are using a competitor's device
 * Looking at users' daily and hourly-level outputs for physical activity, heart rate, and sleep monitoring to explore users' habits when using tracker devices.
 * Identifying trends and relationships of variables in different levels of activity using the exploratory approach.
 * Focus on one of Bellabeat’s products while analyzing Fitbit's data to gain insight into how consumers are using their smart devices.
-* Providing a summary of the analysis to the Bellabeat executive team with visualizations and key findings
-* Making recommendations for Bellabeat’s marketing strategy
+* Providing a summary of the analysis to the Bellabeat executive team with visualizations and key findings.
+* Making recommendations for Bellabeat’s marketing strategy.
