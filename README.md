@@ -15,7 +15,7 @@ products for women - an insight into how consumers are using a competitor's devi
 * Providing a summary of the analysis to the Bellabeat executive team with visualizations and key findings.
 * Making recommendations for Bellabeat’s marketing strategy.
 
-![](https://github.com/databl0g/Suong_Portfolio/blob/main/images/features_venn1.png)
-![](https://github.com/databl0g/Suong_Portfolio/blob/main/images/Correlation%20of%20frequent%20usage%20group.png)
-![](https://github.com/databl0g/Suong_Portfolio/blob/main/images/Correlation.png)
-![](https://github.com/databl0g/Suong_Portfolio/blob/main/images/Steps%20By%20Hours.png)
+![](/images/features_venn1.png)
+![](/images/Correlation%20of%20frequent%20usage%20group.png)
+![](/images/Correlation.png)
+![](/images/Steps%20By%20Hours.png)
