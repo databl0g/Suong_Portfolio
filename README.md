@@ -1,7 +1,7 @@
 # Suong_Portfolio
 Hi, I'm Suong. Welcome to my portfolio!
 
-# [Project 1: Fitness Tracker - A Usage Trends Analysis With R](https://github.com/databl0g/A-fitness-tracker-analysis)
+# [Project 1: Fitbit Data Usage Trends (R)](https://github.com/databl0g/A-fitness-tracker-analysis)
 (This is a case study for my Google Data Analytics Capstone "How can a wellness technology company play it smart?")
 * The goal of this analysis is to provide Bellabeat - a successful small high-tech manufacturer of health-focused
 products for women - an insight into how consumers are using a competitor's devices (i.e, Fitbit tracker). 
